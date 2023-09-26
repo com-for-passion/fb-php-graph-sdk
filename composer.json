@@ -1,10 +1,10 @@
 {
     "name": "com-for-passion/fb-php-graph-sdk",
     "description": "Facebook SDK for PHP",
-    "keywords": ["facebook", "sdk"],
+    "keywords": ["epush facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/com-for-passion/fb-php-graph-sdk",
-    "license": "Facebook Platform",
+    "license": "Epush Platform",
     "authors": [
         {
             "name": "Epush",
