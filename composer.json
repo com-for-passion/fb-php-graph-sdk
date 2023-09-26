@@ -4,7 +4,7 @@
     "keywords": ["epush facebook", "sdk"],
     "type": "library",
     "homepage": "https://github.com/com-for-passion/fb-php-graph-sdk",
-    "license": "Epush Platform",
+    "license": "MIT License",
     "authors": [
         {
             "name": "Epush",
